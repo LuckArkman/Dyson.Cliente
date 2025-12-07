@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Flutter": {
+              "target": "Package",
+              "version": "[0.0.0.73, )"
+            },
             "GtkSharp": {
               "target": "Package",
               "version": "[3.24.24.95, )"
@@ -125,6 +129,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Flutter": {
+              "target": "Package",
+              "version": "[0.0.0.73, )"
+            },
             "GtkSharp": {
               "target": "Package",
               "version": "[3.24.24.95, )"
@@ -201,6 +209,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Flutter": {
+              "target": "Package",
+              "version": "[0.0.0.73, )"
+            },
             "GtkSharp": {
               "target": "Package",
               "version": "[3.24.24.95, )"
@@ -284,6 +296,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Flutter": {
+              "target": "Package",
+              "version": "[0.0.0.73, )"
+            },
             "GtkSharp": {
               "target": "Package",
               "version": "[3.24.24.95, )"
