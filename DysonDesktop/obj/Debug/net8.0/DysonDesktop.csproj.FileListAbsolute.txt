@@ -36,3 +36,4 @@
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/DysonDesktop/bin/Debug/net8.0/Services.pdb
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/DysonDesktop/obj/Debug/net8.0/DysonDesktop.csproj.AssemblyReference.cache
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/DysonDesktop/obj/Debug/net8.0/DysonDes.99F7E28A.Up2Date
+/mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/DysonDesktop/obj/Debug/net8.0/DysonDesktop.sourcelink.json

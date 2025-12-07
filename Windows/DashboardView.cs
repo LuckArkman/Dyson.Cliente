@@ -32,11 +32,11 @@ public class DashboardView : VBox
         // 3. Título Transações
         var lblTrans = new Label("Últimas Transações");
         lblTrans.Halign = Align.Start;
-        this.PackStart(lblTrans, false, false, 10);
+        this.PackStart(lblTrans, false, false, 5);
 
         // 4. Tabela (TreeView)
         var treeView = CreateTransactionTable();
-        this.PackStart(treeView, true, true, 0);
+        this.PackStart(treeView, true, true, 10);
 
         // Carregar dados
         LoadData(treeView);

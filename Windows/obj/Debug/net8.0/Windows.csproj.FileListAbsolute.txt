@@ -17,3 +17,4 @@
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/Windows/obj/Debug/net8.0/ref/Windows.dll
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/Windows/bin/Debug/net8.0/Styles.dll
 /mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/Windows/bin/Debug/net8.0/Styles.pdb
+/mnt/8AA2CEB6A2CEA5D3/Dyson.Cliente/Windows/obj/Debug/net8.0/Windows.sourcelink.json

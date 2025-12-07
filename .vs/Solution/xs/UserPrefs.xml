@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BC99AF2B-0EEF-4C73-AD9D-9242BFBE0E18}|Default">
+  <MonoDevelop.Ide.ItemProperties.DysonDesktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Windows/DashboardView.cs">
+    <Files>
+      <File FileName="Windows/DashboardView.cs" Line="70" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution" expanded="True">
+            <Node name="Windows" expanded="True">
+              <Node name="DashboardView.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
