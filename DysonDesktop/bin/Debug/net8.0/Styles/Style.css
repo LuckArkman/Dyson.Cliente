@@ -1,0 +1,58 @@
+/* style.css */
+window {
+    background-color: #2c3e50; /* Fundo geral escuro */
+    color: #ecf0f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #34495e;
+}
+
+.nav-button {
+    background-color: transparent;
+    color: #bdc3c7;
+    border: none;
+    padding: 10px 20px;
+    margin: 2px 0;
+}
+
+.nav-button:hover {
+    background-color: #2c3e50;
+    color: white;
+}
+
+/* Cards do Dashboard */
+.card-box {
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px;
+    color: white;
+}
+
+.card-blue { background-color: #1abc9c; } /* Cor aproximada do screenshot */
+.card-green { background-color: #2ecc71; }
+.card-red { background-color: #e74c3c; }
+
+.card-title { font-size: 24px; font-weight: bold; }
+.card-subtitle { font-size: 12px; opacity: 0.8; }
+
+/* Tabela */
+treeview {
+    background-color: #34495e;
+    color: #ecf0f1;
+    border: none;
+}
+
+treeview header button {
+    background-color: #2c3e50;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.view-container {
+    padding: 20px;
+    background-color: #2c3e50;
+}
